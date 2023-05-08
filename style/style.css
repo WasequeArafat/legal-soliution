@@ -1,0 +1,9 @@
+.btn-01 {
+  background-color: #b68c5a;
+}
+
+.bg-img {
+  background-image: url(../images/banner.png);
+
+  background-repeat: no-repeat;
+}
